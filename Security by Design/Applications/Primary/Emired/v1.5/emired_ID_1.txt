@@ -1,0 +1,29 @@
+ID 1: chiedere nel dettaglio come sarà configurato rispettando il controllo
+
+ID 3-4-5: chiedere nel dettaglio quando verrà implementato. Chiedere se hanno capito che se devono ouccpare loro
+
+ID 6: vedere se questi accessi vengono fatti in remoto ?
+
+ID 13: Far rivedere a loro la risposta, dare maggiore chiarezza
+
+ID 18: saipem policy, esempio di password
+
+ID 19: Capire se sono implementabili altri sistemi di sicurezza (CSRF)
+
+ID 20: Capire come comunica il livello applicativo con il backend
+
+ID 23: Capire meglio come se ne occupa Accenture
+
+ID 26-27-29-30-31-49-50-60: Copia e incolla 
+
+ID 28: Cosa intende per "other apps"
+
+ID 33: Tempistiche di backup e riferimenti esterni
+
+ID 36: Ogni quanto avviene il PT ed il securiy code analysis è fatto?
+
+ID 42-43: Accenture deve far sapere la parte di Access Control
+
+ID 45-47-48-53-54-55-56-57-58-59: Fornire dettagli (casella in bianco)
+
+ID 51-52: Contraddizione con descrizione Cover, motivo esposto al web.

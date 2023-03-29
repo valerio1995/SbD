@@ -1,0 +1,47 @@
+2. L'admin non può modificare I propri log?
+[A] 3. Il db è in remoto od è accessibile dalla stessa macchina?
+[A] 4. Capire meglio chi ha accesso al db
+5. Cosa usano? Splunk, sentinel, ecc? Perché avete scritto Windows Server event quando si parla di log event? Dove vengono salvati i log??
+[D] 7. Siamo dubbiosi, chiediamo nel dettaglio
+[D] 8. Dettagliare la risposta, fornire un esempio di log
+[D] 9. come è gestito l'acccesso utenti?
+[D] 10. I protocolli utilizzati?
+[A] 12. Chiedere meglio l'accesso al DB
+[A] 14. Capire meglio come avviene l'accesso
+16. VPN di Saipem verrà chiusa, chiedere se possono integrare con Akamai
+[C] 17. Uguale a quella precedente
+[D] 18. Dettagliare
+[I] 19. Dovrebbe essere N/A   C'e un IIS quindi si collega ad internet?
+[I] 20. Usa web browser? Self signed non dovrebbero essere usate? TLS?
+[D] 21. Dettagliare. Chiedere che non ci siano meccanismi di sorpasso controlli
+[A] 22. Oltre all'accesso utenti specificare anche gli altri processi
+[D] 25. Fornire esempio di Session ID
+28. Dovrebbe essere Falso. Inoltre chiedere se è implementabile
+[D] 30. Avrei messo corretta ma meglio chiedere dettagli in un meeting. "can" non accettato perché c'interessa sapere l'attuale stato implementativo
+[D] 36. Dettagliare le tempistiche del PT e vedere se il PT non sia inte
+[C] 43-45. Tutte uguali
+46. Dovrebbero entrare Akamai
+[D] 48. Uguale alle altre. Dettagliare
+49. Perché SSH? Non è Windows quindi RDP?
+[D] 50. Dettagliare
+[D] 55. Dettagliare
+
+[D] Dettagliare e fornire esempio: 7-8-9-10-18-21-25-30-36-48-50-55
+[A] Capire come avviene l'accesso: 3-4-12-14-22
+[I] Sta su internet: 19-20
+[C] Uguale alle altre risposte: 17-43-44-45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

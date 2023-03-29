@@ -1,0 +1,5 @@
+1. Use case
+2. Glossario che dia una descrizione degli utenti/tecnologie
+3. Flowchart
+4. Perché ogni volta c'è design pattern diverso? sarebbe ottimo se si standardizzasse il documento con un UML
+5. Levare i copia ed incolla
